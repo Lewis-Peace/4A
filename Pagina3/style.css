@@ -1,0 +1,22 @@
+#title {
+    color: red;
+    text-transform: uppercase;
+}
+
+.text {
+    font-size: large;
+    text-align: justify;
+}
+
+.image-cluster {
+    width: 100%;
+    text-align: center;
+}
+.dim30 {
+    width: 30%;
+    margin: 5px;
+}
+
+.list {
+    list-style-type: decimal-leading-zero;
+}
