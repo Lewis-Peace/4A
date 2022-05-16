@@ -1,0 +1,21 @@
+.navigation_button {
+    background-color: grey;
+}
+
+.selected {
+    background-color: #B8B8B8;
+}
+
+.ads {
+    text-align: center;
+    vertical-align: middle;
+    background-color: aquamarine;
+}
+
+.footer {
+    flex-flow: nowrap;
+}
+
+.content {
+    vertical-align: top;
+}
